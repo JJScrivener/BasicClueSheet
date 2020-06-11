@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">BasicClueSheet</string>
+
+    <!--Titles-->
+    <string name="suspects_title">SUSPECTS</string>
+    <string name="weapons_title">WEAPONS</string>
+    <string name="rooms_title">ROOMS</string>
+    <string name="note_title">NOTES</string>
+    <string name="btn_clear_txt">CLEAR ALL</string>
+
+    <!--Suspects-->
+    <string name="mustard_txt">Colonel Mustard</string>
+    <string name="plumb_txt">Professor Plumb</string>
+    <string name="green_txt">Mr Green</string>
+    <string name="peacock_txt">Mrs Peacock</string>
+    <string name="scarlet_txt">Miss Scarlet</string>
+    <string name="white_txt">Mrs White</string>
+    <!--Weapons-->
+    <string name="knife_txt">Knife</string>
+    <string name="candlestick_txt">Candlestick</string>
+    <string name="revolver_txt">Revolver</string>
+    <string name="rope_txt">Rope</string>
+    <string name="lead_pipe_txt">Lead Pipe</string>
+    <string name="wrench_txt">Wrench</string>
+    <!--Rooms-->
+    <string name="hall_txt">Hall</string>
+    <string name="lounge_txt">Lounge</string>
+    <string name="dining_room_txt">Dining Room</string>
+    <string name="kitchen_txt">Kitchen</string>
+    <string name="ballroom_txt">Ballroom</string>
+    <string name="conservatory_txt">Conservatory</string>
+    <string name="billiard_room_txt">Billiard Room</string>
+    <string name="library_txt">Library</string>
+    <string name="study_txt">Study</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string name="sample_txt">This is a sample</string>
+</resources>
